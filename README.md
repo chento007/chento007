@@ -8,6 +8,11 @@ Welcome to my GitHub page! Here, you'll find projects showcasing my skills in HT
 
 ## Skills
 
+### REACT-JS
+- Proficient in HTML5
+- Experience in creating responsive and accessible web pages
+- [Other HTML skills or experiences]
+
 ### FLUTTER
 - Proficient in HTML5
 - Experience in creating responsive and accessible web pages
