@@ -1,4 +1,4 @@
-# [Your Name]'s Web Development Skills
+# Chea Chento's Skills
 
 Welcome to my GitHub page! Here, you'll find projects showcasing my skills in HTML, CSS, JavaScript, and jQuery.
 
