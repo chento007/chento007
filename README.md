@@ -6,42 +6,33 @@ Welcome to my GitHub page! Here, you'll find a diverse range of projects showcas
 
 [Short bio or introduction about yourself, your interests in development and data analytics]
 
-## Skills
+## Skills and Projects
 
 ### Data Analytics
+![Data Analytics Image](link_to_data_analytics_image)
 - Proficient in machine learning and data manipulation
-- Skilled in Data Pipeline, Exploratory Data Analysis (EDA), and Statistical Analysis
-- Experienced with Excel for Data Analytics, Basic SQL, and Python for Data Analysis
-- Capable in Data Visualization and using Business Intelligence Tools
-- Expertise in Story Telling and applying Machine Learning Algorithms for Data Analysis
-- Knowledge in Capstone Project Deployment
+- Skills: Data Pipeline, EDA, Statistical Analysis, Python for Data Analysis
+- Featured Project: **[Data Analytics Project Name]** - [Short description]. ([View Repository](link_to_data_analytics_project))
 
 ### Front-End Development
-- Proficient in HTML5, CSS3, and JavaScript
-- Experienced with jQuery, Bootstrap, and TailwindCSS
+![Front-End Development Image](link_to_front_end_dev_image)
+- Experienced with HTML5, CSS3, JavaScript, jQuery, Bootstrap, TailwindCSS
+- Featured Project: **[Front-End Project Name]** - [Short description]. ([View Repository](link_to_front_end_project))
 
 ### Back-End Development
-- Skilled in PHP, Python-Django, Spring Boot, and Node.js
+![Back-End Development Image](link_to_back_end_dev_image)
+- Skilled in PHP, Python-Django, Spring Boot, Node.js
+- Featured Project: **[Back-End Project Name]** - [Short description]. ([View Repository](link_to_back_end_project))
 
 ### Programming Languages
-- Proficient in Java, C, C++, and C#
+![Programming Languages Image](link_to_programming_languages_image)
+- Proficient in Java, C, C++, C#
+- Featured Project: **[Programming Language Project Name]** - [Short description]. ([View Repository](link_to_programming_language_project))
 
 ### Deployment
-- Knowledgeable in Linux fundamentals, Basic Cloud Service Usage, and Web Server Configuration (NGINX)
-- Experienced in Docker Compose
-
-## Projects
-
-[List of projects with brief descriptions, links to the repository, and what skills you demonstrated in each project]
-
-1. **[Front-End Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: HTML, CSS, JavaScript, Bootstrap
-2. **[Data Analytics Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: Python for Data Analysis, Machine Learning
-3. **[Back-End Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: PHP, Python-Django
-4. **[Full Stack Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: Node.js, React, MongoDB
+![Deployment Image](link_to_deployment_image)
+- Knowledge in Linux, Cloud Services, NGINX, Docker Compose
+- Featured Project: **[Deployment Project Name]** - [Short description]. ([View Repository](link_to_deployment_project))
 
 ## Contact
 
