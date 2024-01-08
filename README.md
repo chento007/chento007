@@ -1,51 +1,47 @@
-# Chea Chento's Skills
+# [Your Name]'s Skills Portfolio
 
-Welcome to my GitHub page! Here, you'll find projects showcasing my skills in HTML, CSS, JavaScript, and jQuery.
+Welcome to my GitHub page! Here, you'll find a diverse range of projects showcasing my skills in web development, data analytics, and various programming languages.
 
 ## About Me
 
-[Short bio or introduction about yourself and your interest in web development]
+[Short bio or introduction about yourself, your interests in development and data analytics]
 
 ## Skills
 
-### REACT-JS
-- Proficient in HTML5
-- Experience in creating responsive and accessible web pages
-- [Other HTML skills or experiences]
+### Data Analytics
+- Proficient in machine learning and data manipulation
+- Skilled in Data Pipeline, Exploratory Data Analysis (EDA), and Statistical Analysis
+- Experienced with Excel for Data Analytics, Basic SQL, and Python for Data Analysis
+- Capable in Data Visualization and using Business Intelligence Tools
+- Expertise in Story Telling and applying Machine Learning Algorithms for Data Analysis
+- Knowledge in Capstone Project Deployment
 
-### FLUTTER
-- Proficient in HTML5
-- Experience in creating responsive and accessible web pages
-- [Other HTML skills or experiences]
-  
-### HTML
-- Proficient in HTML5
-- Experience in creating responsive and accessible web pages
-- [Other HTML skills or experiences]
+### Front-End Development
+- Proficient in HTML5, CSS3, and JavaScript
+- Experienced with jQuery, Bootstrap, and TailwindCSS
 
-### CSS
-- Skilled in CSS3 and layout design
-- Familiar with frameworks like Bootstrap
-- [Other CSS skills or experiences]
+### Back-End Development
+- Skilled in PHP, Python-Django, Spring Boot, and Node.js
 
-### JavaScript
-- Strong understanding of JavaScript ES6+ features
-- Experience in building interactive web applications
-- [Other JavaScript skills or experiences]
+### Programming Languages
+- Proficient in Java, C, C++, and C#
 
-### jQuery
-- Proficient in simplifying JavaScript code using jQuery
-- Experience in DOM manipulation, AJAX, and event handling
-- [Other jQuery skills or experiences]
+### Deployment
+- Knowledgeable in Linux fundamentals, Basic Cloud Service Usage, and Web Server Configuration (NGINX)
+- Experienced in Docker Compose
 
 ## Projects
 
 [List of projects with brief descriptions, links to the repository, and what skills you demonstrated in each project]
 
-1. **[Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: HTML, CSS, JavaScript
-2. **[Another Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: jQuery, JavaScript
+1. **[Front-End Project Name]** - [Short description]. ([View Repository](link_to_repository))
+   - Key Skills: HTML, CSS, JavaScript, Bootstrap
+2. **[Data Analytics Project Name]** - [Short description]. ([View Repository](link_to_repository))
+   - Key Skills: Python for Data Analysis, Machine Learning
+3. **[Back-End Project Name]** - [Short description]. ([View Repository](link_to_repository))
+   - Key Skills: PHP, Python-Django
+4. **[Full Stack Project Name]** - [Short description]. ([View Repository](link_to_repository))
+   - Key Skills: Node.js, React, MongoDB
 
 ## Contact
 
@@ -58,4 +54,3 @@ Feel free to reach out to me for collaborations or any questions:
 ---
 
 Thank you for visiting my GitHub profile!
-
