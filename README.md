@@ -1,47 +1,80 @@
-# [Your Name]'s Skills Portfolio
+
+# Chea Chento's Skills Portfolio
 
 Welcome to my GitHub page! Here, you'll find a diverse range of projects showcasing my skills in web development, data analytics, and various programming languages.
 
-## About Me
+## About me
+One thing I can tell you about me. I love to work not to talk.
 
-[Short bio or introduction about yourself, your interests in development and data analytics]
 
-## Skills and Projects
+### Educations
+- 2017-2020 : Hight school at The Westline school
+- 2018-2022 : Studied at ACE 
+- 2023-2024 : Center of Science and Technology Advanced Development
+- 2024-preset : Royal University of Phnom Penh
+### Language
+- English 
+- Khmer 
+### HOBBIES
+- Football
+- Reading
+## Skills
+####  Front-End
+- HTML
+- CSS
+- Javascript
+- Jquery
+- Ajax
+- React-js
+- Next-js
+- Bootstrap
+- Tailwindcss
+####  Back-End
+- Spring boot 
+- Python Django
+- Node-js (express)
+- PHP (Raw html)
+#### Mobile APP
+- Flutter
+#### Database
+- PostgresSQL
+- Mysql
+- MongoDB
+- Microsoft SQL Server
+#### Deployment
+- Basic Docker
+- Basic Linux
+- Basic ShellScript
+- Basic Nginx
+#### Data Analytics
+- Data Analytics concept
+- Data Manipulation and Cleaning
+- Data Pipeline
+- Exploratory Data Analysis
+- Excel for Data Analytics
+- Statistical Analysis
+- Data Visualization
+- Apply Machine Learning Algorithm for Data Analysis
+#### Programming Languages with Console
+- C
+- C++
+- Java
+### Projects
+- Flutter : this project about online shop user can buy the product and get the location:
+##### Link git :
+ api : https://github.com/chento007/node_online_shop.git
+ flutter : 
 
-### Data Analytic
-link_to_data_analytics_image](https://www.teraflow.ai/wp-content/uploads/2022/02/Outsource-Your-Key-to-Advanced-Data-Analytics-.jpg
-- Proficient in machine learning and data manipulation
-- Skills: Data Pipeline, EDA, Statistical Analysis, Python for Data Analysis
-- Featured Project: **[Data Analytics Project Name]** - [Short description]. ([View Repository](link_to_data_analytics_project))
+- PHP : this process about ecomers 
+##### Link git :
+https://github.com/chento123/Online-Shop-PHP.git
 
-### Front-End Development
-![Front-End Development Image](link_to_front_end_dev_image)
-- Experienced with HTML5, CSS3, JavaScript, jQuery, Bootstrap, TailwindCSS
-- Featured Project: **[Front-End Project Name]** - [Short description]. ([View Repository](link_to_front_end_project))
+- Java : this project process in Console
+##### Link git :
+https://github.com/chento123/code-hotel.git
 
-### Back-End Development
-![Back-End Development Image](link_to_back_end_dev_image)
-- Skilled in PHP, Python-Django, Spring Boot, Node.js
-- Featured Project: **[Back-End Project Name]** - [Short description]. ([View Repository](link_to_back_end_project))
+- Photostad : this project about auto generate image with watermark and certificate
+#### Used : Spring boot , Next js , PostgresSQL
+- K-QuickSight : this project about auto clean and Analysis and Visualization
+#### Used : Python , Next-js
 
-### Programming Languages
-![Programming Languages Image](link_to_programming_languages_image)
-- Proficient in Java, C, C++, C#
-- Featured Project: **[Programming Language Project Name]** - [Short description]. ([View Repository](link_to_programming_language_project))
-
-### Deployment
-![Deployment Image](link_to_deployment_image)
-- Knowledge in Linux, Cloud Services, NGINX, Docker Compose
-- Featured Project: **[Deployment Project Name]** - [Short description]. ([View Repository](link_to_deployment_project))
-
-## Contact
-
-Feel free to reach out to me for collaborations or any questions:
-
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
-- [Other contact methods]
-
----
-
-Thank you for visiting my GitHub profile!
