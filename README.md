@@ -1,51 +1,54 @@
-# [Your Name]'s Web Development Skills
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills Showcase</title>
+    <style>
+        .card-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
 
-Welcome to my GitHub page! Here, you'll find projects showcasing my skills in HTML, CSS, JavaScript, and jQuery.
+        .skill-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin: 10px;
+            width: 200px;
+            text-align: center;
+        }
 
-## About Me
+        .skill-card img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
 
-[Short bio or introduction about yourself and your interest in web development]
+<div class="card-container">
+    <div class="skill-card">
+        <img src="path_to_html_image" alt="HTML">
+        <h3>HTML</h3>
+    </div>
 
-## Skills
+    <div class="skill-card">
+        <img src="path_to_css_image" alt="CSS">
+        <h3>CSS</h3>
+    </div>
 
-### HTML
-- Proficient in HTML5
-- Experience in creating responsive and accessible web pages
-- [Other HTML skills or experiences]
+    <div class="skill-card">
+        <img src="path_to_javascript_image" alt="JavaScript">
+        <h3>JavaScript</h3>
+    </div>
 
-### CSS
-- Skilled in CSS3 and layout design
-- Familiar with frameworks like Bootstrap
-- [Other CSS skills or experiences]
+    <div class="skill-card">
+        <img src="path_to_jquery_image" alt="jQuery">
+        <h3>jQuery</h3>
+    </div>
+</div>
 
-### JavaScript
-- Strong understanding of JavaScript ES6+ features
-- Experience in building interactive web applications
-- [Other JavaScript skills or experiences]
-
-### jQuery
-- Proficient in simplifying JavaScript code using jQuery
-- Experience in DOM manipulation, AJAX, and event handling
-- [Other jQuery skills or experiences]
-
-## Projects
-
-[List of projects with brief descriptions, links to the repository, and what skills you demonstrated in each project]
-
-1. **[Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: HTML, CSS, JavaScript
-2. **[Another Project Name]** - [Short description]. ([View Repository](link_to_repository))
-   - Key Skills: jQuery, JavaScript
-
-## Contact
-
-Feel free to reach out to me for collaborations or any questions:
-
-- Email: [Your email]
-- LinkedIn: [Your LinkedIn profile]
-- [Other contact methods]
-
----
-
-Thank you for visiting my GitHub profile!
-
+</body>
+</html>
