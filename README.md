@@ -9,7 +9,7 @@ Welcome to my GitHub page! Here, you'll find a diverse range of projects showcas
 ## Skills and Projects
 
 ### Data Analytics
-![Data Analytics Image](link_to_data_analytics_image)
+![Data Analytics Image]([link_to_data_analytics_image](https://www.teraflow.ai/wp-content/uploads/2022/02/Outsource-Your-Key-to-Advanced-Data-Analytics-.jpg))
 - Proficient in machine learning and data manipulation
 - Skills: Data Pipeline, EDA, Statistical Analysis, Python for Data Analysis
 - Featured Project: **[Data Analytics Project Name]** - [Short description]. ([View Repository](link_to_data_analytics_project))
