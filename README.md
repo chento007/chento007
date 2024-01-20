@@ -8,7 +8,7 @@ Welcome to my GitHub page! Here, you'll find a diverse range of projects showcas
 
 ## Education
 🏫 **High School:** The Westline School (2017-2020)  
-🎓 **Bachelor's:** ACE (2018-2022)  
+🎓 **English:** ACE (2018-2022)  
 🔬 **Advanced Studies:** Center of Science and Technology (2023-2024)  
 🎓 **Current Studies:** Royal University of Phnom Penh (2024-present)
 
@@ -36,6 +36,7 @@ Welcome to my GitHub page! Here, you'll find a diverse range of projects showcas
 - Spring Boot ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 - Python Django ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 - Node.js (Express) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- Nest.js ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 - PHP (Raw HTML) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Mobile App Development
