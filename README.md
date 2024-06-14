@@ -53,7 +53,7 @@ Welcome to my GitHub page! Here, you'll find a diverse range of projects showcas
 - Basic Linux ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - Basic ShellScript ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 - Basic Nginx ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
+- Basic Jenkin 
 ### Data Analytics
 - Data Analytics Concepts
 - Data Manipulation and Cleaning
